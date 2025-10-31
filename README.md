@@ -1,35 +1,37 @@
-# 📡 Teste de Velocidade da Internet com Python
+# 📡 Internet Speed ​​Test with Python
 
-Antes de rodar qualquer automação, que tal garantir que sua **internet estável**?  
-Com este simples script em Python, você pode medir **velocidade de download**, **upload** e **ping** em apenas alguns segundos! ⚡
+Before running any automation, how about ensuring your **internet is stable**?
 
----
-
-## 🚀 Funcionalidades
-
-- ✅ Mede **velocidade de download**
-- ✅ Mede **velocidade de upload**
-- ✅ Exibe **ping (latência)**
-- ✅ Pode ser integrado em **automação de scripts**
-- ✅ Detecta **instabilidade na conexão**
-- ✅ Possibilidade de **notificação automática** se a internet estiver fora do ar
+With this simple Python script, you can measure **download speed**, **upload speed**, and **ping** in just a few seconds! ⚡
 
 ---
 
-## 🧠 Por que usar?
+## 🚀 Features
 
-Este script é ideal para quem:
-- Executa **automação que depende da internet**
-- Usa **APIs externas** e precisa garantir conexão estável
-- Monitora **conectividade de servidores** ou máquinas locais
-- Deseja verificar periodicamente a **qualidade da rede**
+- ✅ Measures **download speed**
+- ✅ Measures **upload speed**
+- ✅ Displays **ping (latency)**
+- ✅ Can be integrated into **script automation**
+- ✅ Detects **connection instability**
+- ✅ Possibility of **automatic notification** if the internet is down
 
 ---
 
-## ⚙️ Instalação
+## 🧠 Why use it?
 
-Clone este repositório:
+This script is ideal for those who:
+
+- Run **automation that depends on the internet**
+- Use **external APIs** and need to ensure a stable connection
+- Monitor **connectivity of servers** or local machines
+- Want to periodically check **network quality**
+
+---
+
+## ⚙️ Installation
+
+Clone this repository:
 
 ```bash
-git clone https://github.com/seu-usuario/teste-velocidade-internet.git
-cd teste-velocidade-internet
+git clone https://github.com/your-username/internet-speed-test.git
+cd internet-speed-test
